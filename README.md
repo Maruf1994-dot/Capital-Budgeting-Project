@@ -36,6 +36,8 @@ Given these points, it appears that Project 1 is the better choice based on the 
 Lessons Learned:
 
 Enhanced proficiency in financial modeling and capital budgeting techniques.
+
 Developed a deeper understanding of risk assessment and investment decision-making processes.
+
 Strengthened ability to communicate complex financial concepts and recommendations to stakeholders.
 
